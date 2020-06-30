@@ -1,4 +1,4 @@
-# IMDL@KSU
+# HAVL@KSU
 
 This is the website of our research group at KSU.
 
