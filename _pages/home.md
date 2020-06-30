@@ -1,7 +1,7 @@
 ---
-title: "IMDL - Home"
+title: "HAVL - Home"
 layout: homelay
-excerpt: "IMDL at KSU."
+excerpt: "HAVL at KSU."
 sitemap: false
 permalink: /
 ---
